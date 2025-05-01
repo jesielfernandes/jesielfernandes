@@ -63,7 +63,7 @@
   <a href="https://api.whatsapp.com/send/?phone=5511999371974&text&type=phone_number&app_absent=0" target="_blank" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511999371974&text&type=phone_number&app_absent=0" alt="WhatsApp"/></a>
   <a href="https://www.instagram.com/__jefernandes/" target="_blank" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/__jefernandes/" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-9455B9?style=flat-square&labelColor=9455B9&logo=instagram&logoColor=white&link=https://www.instagram.com/__jefernandes/" alt="Instagram"/></a>
   <a href="https://github.com/jesielfernandes/jesielfernandes/" target="_blank" title="GitHub">
   <img src="https://img.shields.io/github/followers/iuricode?label=follow&style=social&link=https://github.com/jesielfernandes/jesielfernandes/" alt="GitHub"/></a>
 </p>
