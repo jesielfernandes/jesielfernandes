@@ -55,6 +55,15 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+<p align="left">
+  <a href="mailto:jesiel_batista@hotmail.com" target="_blank" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jesiel_batista@hotmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send/?phone=5511999371974&text&type=phone_number&app_absent=0" target="_blank" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511999371974&text&type=phone_number&app_absent=0" alt="WhatsApp"/></a>
+  <a href="https://www.instagram.com/__jefernandes/" target="_blank" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/__jefernandes/" alt="Instagram"/></a>
+  <a href="https://github.com/jesielfernandes/jesielfernandes/" target="_blank" title="GitHub">
+  <img src="https://img.shields.io/github/followers/iuricode?label=follow&style=social&link=https://github.com/jesielfernandes/jesielfernandes/" alt="GitHub"/></a>
+</p>
