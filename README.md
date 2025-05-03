@@ -1,14 +1,13 @@
-## Hi there 👋
+## Jesiel Fernandes
 
 <!--
 **jesielfernandes/jesielfernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
-
-![](https://komarev.com/ghpvc/?username=Jesielfernandes&color=006bed)
-
 ## Sobre mim
+
+- Me chamo Jesiel Fernandes, tenho 32 anos, natural de São Paulo, atualmente Residindo no estado do PR. <br/> Sou Apaixonado por tecnologia e atualmente estou cursando Programação na escola de programadores [DevClub](https://rodolfomori.com.br/devclub-comercial/)
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento Web/Software na escola de programadores DevClub.
@@ -49,9 +48,23 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jesielfernandes&theme=dracula&show_icons=true" />
+## Estatísticas
+<a href="https://github.com/jesielfernandes" title="Perfil do Jesiel">
+    <img 
+      align="right" 
+      alt="GitHub Stats" 
+      height="180em" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesielfernandes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+  <img 
+    height="180em"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Jesielfernandes&theme=dracula&show_icons=true" />
 </a>
+
+<br/>
+<br/>
+<br/>
 
 ## Onde me encontrar
 
